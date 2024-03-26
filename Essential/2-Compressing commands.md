@@ -49,6 +49,8 @@ To compress files and folders using zip, run:
 ```bash
 zip [zip-name] [file1] [file2] ...
 ```
+### Tip
+- **Zip Command Limitation**: Zip command cannot directly compress directories; it works only for files. To compress directories, use the `-r` option with the zip command.
 
 #### Compress Directory with Zip
 To compress a directory with zip, apply:
@@ -92,5 +94,3 @@ To extract a bzip2 file, execute:
 bunzip2 [bzip-file-name]
 ```
 
-### Tip
-- **Zip Command Limitation**: Zip command cannot directly compress directories; it works only for files. To compress directories, use the `-r` option with the zip command.
