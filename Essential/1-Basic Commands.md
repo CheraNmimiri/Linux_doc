@@ -1,4 +1,4 @@
-### Linux Commands
+### Basic Commands
 
 #### Change User Password
 To change a user's password:
