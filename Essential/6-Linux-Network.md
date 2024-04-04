@@ -31,5 +31,5 @@
 These commands and files are essential for configuring and managing network connections in Linux systems.
 
 #### For kill a process on a x port
-'sudo fuser -k xxxx/tcp'
+- `sudo fuser -k xxxx/tcp`
 
