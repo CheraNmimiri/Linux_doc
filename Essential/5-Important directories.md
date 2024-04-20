@@ -24,7 +24,8 @@
 
 #### top
 - Provides an interactive live display of processes.
-
+#### htop
+- Better version of Top command.
 #### free
 - Shows information about free memory.
 
